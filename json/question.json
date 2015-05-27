@@ -1,0 +1,28 @@
+{
+    "questions": [{
+        "id":1,
+        "question": "dfdfde",
+        "option1": "rerere",
+        "option2": "ettt",
+        "option3": "wererere",
+        "option4": "wewewewewew",
+        "selectedAnswer": "",
+        "prevCorrectAnswered": 0,
+        "correctAnswer": 1
+    },{
+        "id":2,
+        "question":"wewe",
+        "option1":"erere",
+        "option2":"wergrg",
+        "option3":"wewrferfe",
+        "option4":"32323322",
+        "selectedAnswer":"43534t43r",
+        "prevCorrectAnswered":0,
+        "correctAnswer":1
+    },{
+
+    }
+    
+    
+    ]
+}

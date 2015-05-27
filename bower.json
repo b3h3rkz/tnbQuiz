@@ -1,0 +1,17 @@
+{
+  "name": "bernard",
+  "version": "1.0.0",
+  "authors": [
+    "b3h3rkz <barjebernard@gmail.com>"
+  ],
+  "description": "quizapp",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
