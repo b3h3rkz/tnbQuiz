@@ -1,28 +1,107 @@
 {
     "questions": [{
         "id":1,
-        "question": "dfdfde",
-        "option1": "rerere",
-        "option2": "ettt",
-        "option3": "wererere",
-        "option4": "wewewewewew",
+        "question": "What is Bucky's real name?",
+        "option1": "Becky",
+        "option2": "Dwayne",
+        "option3": "Gregg",
+        "option4": "Buckwheat",
         "selectedAnswer": "",
         "prevCorrectAnswered": 0,
-        "correctAnswer": 1
+        "correctAnswer": 3
     },{
         "id":2,
-        "question":"wewe",
-        "option1":"erere",
-        "option2":"wergrg",
-        "option3":"wewrferfe",
-        "option4":"32323322",
-        "selectedAnswer":"43534t43r",
+        "question":"How do you join Slack?",
+        "option1":"By being lazy",
+        "option2":"You have to be invited",
+        "option3":"Spam Bucky",
+        "option4":"Impersonate a moderator",
+        "selectedAnswer":"",
+        "prevCorrectAnswered":0,
+        "correctAnswer":2
+    },{
+        "id":3,
+        "question":"Who can be a programmer?",
+        "option1":"A grammer professional",
+        "option2":"A computer scientist",
+        "option3":"Anybody",
+        "option4":"A graham 'cracker'",
+        "selectedAnswer":"",
+        "prevCorrectAnswered":0,
+        "correctAnswer":3
+    },{
+        "id":4,
+        "question":"What is the size of Hannah's forehead?",
+        "option1":"3 inches",
+        "option2":"4 inches",
+        "option3":"5 inches",
+        "option4":"I don't know. It just makes me nervous.",
+        "selectedAnswer":"",
+        "prevCorrectAnswered":0,
+        "correctAnswer":4
+    },{
+        "id":5,
+        "question":"Where do you post programming questions?",
+        "option1":"Bucky's wall",
+        "option2":"Message Bucky",
+        "option3":"The stream",
+        "option4":"forum! forum! forum!",
+        "selectedAnswer":"",
+        "prevCorrectAnswered":0,
+        "correctAnswer":4
+    },{
+        "id":6,
+        "question":"Who is wheatley core?",
+        "option1":"A bot",
+        "option2":"A moderator",
+        "option3":"The Ban Hammer",
+        "option4":"All of the above",
+        "selectedAnswer":"",
+        "prevCorrectAnswered":0,
+        "correctAnswer":4
+    }, {
+        "id":7,
+        "question":"What is Bucky's room?",
+        "option1":"The 'old' TNB ",
+        "option2":"Bucky's bedroom",
+        "option3":"A page in TNB",
+        "option4":"The source code to TNB",
+        "selectedAnswer":"",
         "prevCorrectAnswered":0,
         "correctAnswer":1
     },{
-
+        "id":8,
+        "question":"Who is Tiffany Alvord?",
+        "option1":"A famous department store",
+        "option2":"An American Idol judge",
+        "option3":"Bucky's wife",
+        "option4":"wheatley's girlfriend",
+        "selectedAnswer":"",
+        "prevCorrectAnswered":0,
+        "correctAnswer":4
+    },{
+        "id":9,
+        "question":"What is Bucky's favorite food?",
+        "option1":"Bacon",
+        "option2":"Tuna",
+        "option3":"Hot pockets",
+        "option4":"All of the above",
+        "selectedAnswer":"",
+        "prevCorrectAnswered":0,
+        "correctAnswer":4
+    },{
+        "id":10,
+        "question":"What is Bacon?",
+        "option1":"A fruit",
+        "option2":"Bacon is love! Bacon is life!",
+        "option3":"A new programming language",
+        "option4":"A baking product",
+        "selectedAnswer":"",
+        "prevCorrectAnswered":0,
+        "correctAnswer":2
     }
     
     
     ]
 }
+
